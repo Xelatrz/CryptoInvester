@@ -1,0 +1,4 @@
+# 3 flows (1 main flow, 2 subflows)
+# crews go inside flows as needed
+# agents likely need to be stored in a yaml file and called by the crews
+# main calls specified flows when required for different tasks (ex: research vs buy/sell)
